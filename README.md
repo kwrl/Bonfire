@@ -4,7 +4,6 @@
 
 Bonfire takes your interfaces, feeds them to a large language model, compiles the result, and hands you back a ready-to-use `Type` — all at runtime. It's the kind of engineering that keeps datacenters warm and SREs on their toes.
 
-> *Named for its ability to light up both the Amazon rainforest and your production environment.*
 
 ## Getting Started
 
