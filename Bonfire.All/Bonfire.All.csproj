@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Description>Meta-package that includes all Bonfire packages.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bonfire.Abstractions\Bonfire.Abstractions.csproj" />
+    <ProjectReference Include="..\Bonfire\Bonfire.csproj" />
+    <ProjectReference Include="..\Bonfire.Compiler.Roslyn\Bonfire.Compiler.Roslyn.csproj" />
+    <ProjectReference Include="..\Bonfire.Decompiler.IlSpy\Bonfire.Decompiler.IlSpy.csproj" />
+    <ProjectReference Include="..\Bonfire.LanguageModel.OpenAi\Bonfire.LanguageModel.OpenAi.csproj" />
+  </ItemGroup>
+
+</Project>

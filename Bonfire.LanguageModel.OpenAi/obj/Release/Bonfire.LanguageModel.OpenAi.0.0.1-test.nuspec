@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Bonfire.LanguageModel.OpenAi</id>
+    <version>0.0.1-test</version>
+    <authors>Bonfire.LanguageModel.OpenAi</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="6ee840d462b3301e96455eb2ca32742d1d68805d" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Bonfire.Abstractions" version="0.0.1-test" exclude="Build,Analyzers" />
+        <dependency id="OpenAI" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/bin/Release/net9.0/Bonfire.LanguageModel.OpenAi.dll" target="lib/net9.0/Bonfire.LanguageModel.OpenAi.dll" />
+  </files>
+</package>

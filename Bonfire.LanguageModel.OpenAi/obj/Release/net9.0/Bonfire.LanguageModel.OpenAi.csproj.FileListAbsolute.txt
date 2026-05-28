@@ -1,0 +1,16 @@
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/bin/Release/net9.0/Bonfire.LanguageModel.OpenAi.deps.json
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/bin/Release/net9.0/Bonfire.LanguageModel.OpenAi.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/bin/Release/net9.0/Bonfire.LanguageModel.OpenAi.pdb
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/bin/Release/net9.0/Bonfire.Abstractions.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/bin/Release/net9.0/Bonfire.Abstractions.pdb
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/Release/net9.0/Bonfire.LanguageModel.OpenAi.csproj.AssemblyReference.cache
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/Release/net9.0/Bonfire.LanguageModel.OpenAi.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/Release/net9.0/Bonfire.LanguageModel.OpenAi.AssemblyInfoInputs.cache
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/Release/net9.0/Bonfire.LanguageModel.OpenAi.AssemblyInfo.cs
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/Release/net9.0/Bonfire.LanguageModel.OpenAi.csproj.CoreCompileInputs.cache
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/Release/net9.0/Bonfire.LanguageModel.OpenAi.sourcelink.json
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/Release/net9.0/Bonfire..FA4BA779.Up2Date
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/Release/net9.0/Bonfire.LanguageModel.OpenAi.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/Release/net9.0/refint/Bonfire.LanguageModel.OpenAi.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/Release/net9.0/Bonfire.LanguageModel.OpenAi.pdb
+/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/Release/net9.0/ref/Bonfire.LanguageModel.OpenAi.dll

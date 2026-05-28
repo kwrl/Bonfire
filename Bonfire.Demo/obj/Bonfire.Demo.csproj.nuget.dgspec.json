@@ -1,0 +1,427 @@
+{
+  "format": 1,
+  "restore": {
+    "/tmp/workspace/kwrl/Bonfire/Bonfire.Demo/Bonfire.Demo.csproj": {}
+  },
+  "projects": {
+    "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj",
+        "projectName": "Bonfire.Abstractions",
+        "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/Bonfire.Compiler.Roslyn.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/Bonfire.Compiler.Roslyn.csproj",
+        "projectName": "Bonfire.Compiler.Roslyn",
+        "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/Bonfire.Compiler.Roslyn.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj": {
+                "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/Bonfire.Decompiler.IlSpy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/Bonfire.Decompiler.IlSpy.csproj",
+        "projectName": "Bonfire.Decompiler.IlSpy",
+        "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/Bonfire.Decompiler.IlSpy.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj": {
+                "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "ICSharpCode.Decompiler": {
+              "target": "Package",
+              "version": "[8.2.0.7535, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/tmp/workspace/kwrl/Bonfire/Bonfire.Demo/Bonfire.Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.Demo/Bonfire.Demo.csproj",
+        "projectName": "Bonfire.Demo",
+        "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Demo/Bonfire.Demo.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Demo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/Bonfire.Compiler.Roslyn.csproj": {
+                "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/Bonfire.Compiler.Roslyn.csproj"
+              },
+              "/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/Bonfire.Decompiler.IlSpy.csproj": {
+                "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/Bonfire.Decompiler.IlSpy.csproj"
+              },
+              "/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/Bonfire.LanguageModel.OpenAi.csproj": {
+                "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/Bonfire.LanguageModel.OpenAi.csproj"
+              },
+              "/tmp/workspace/kwrl/Bonfire/Bonfire/Bonfire.csproj": {
+                "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire/Bonfire.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "OpenAI": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/Bonfire.LanguageModel.OpenAi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/Bonfire.LanguageModel.OpenAi.csproj",
+        "projectName": "Bonfire.LanguageModel.OpenAi",
+        "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/Bonfire.LanguageModel.OpenAi.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj": {
+                "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "OpenAI": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/tmp/workspace/kwrl/Bonfire/Bonfire/Bonfire.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire/Bonfire.csproj",
+        "projectName": "Bonfire",
+        "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire/Bonfire.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj": {
+                "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
