@@ -1997,7 +1997,7 @@
     ]
   },
   "packageFolders": {
-    "/home/runner/.nuget/packages/": {}
+    "/tmp/codeql-scratch-d48bc3dc7be7d21d/dbs/csharp/working/packages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -2005,7 +2005,7 @@
       "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.Demo/Bonfire.Demo.csproj",
       "projectName": "Bonfire.Demo",
       "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Demo/Bonfire.Demo.csproj",
-      "packagesPath": "/home/runner/.nuget/packages/",
+      "packagesPath": "/tmp/codeql-scratch-d48bc3dc7be7d21d/dbs/csharp/working/packages",
       "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Demo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
@@ -2070,6 +2070,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.16, 9.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[9.0.16, 9.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.16, 9.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

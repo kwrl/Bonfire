@@ -1007,7 +1007,7 @@
     ]
   },
   "packageFolders": {
-    "/home/runner/.nuget/packages/": {}
+    "/tmp/codeql-scratch-d48bc3dc7be7d21d/dbs/csharp/working/packages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1015,7 +1015,7 @@
       "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/Bonfire.Compiler.Roslyn.csproj",
       "projectName": "Bonfire.Compiler.Roslyn",
       "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/Bonfire.Compiler.Roslyn.csproj",
-      "packagesPath": "/home/runner/.nuget/packages/",
+      "packagesPath": "/tmp/codeql-scratch-d48bc3dc7be7d21d/dbs/csharp/working/packages",
       "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
@@ -1071,6 +1071,16 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.16, 9.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.16, 9.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

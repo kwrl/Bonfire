@@ -10,7 +10,7 @@
         "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj",
         "projectName": "Bonfire.Abstractions",
         "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/Bonfire.Abstractions.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/tmp/codeql-scratch-d48bc3dc7be7d21d/dbs/csharp/working/packages",
         "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Abstractions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -56,6 +56,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -71,7 +81,7 @@
         "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/Bonfire.Compiler.Roslyn.csproj",
         "projectName": "Bonfire.Compiler.Roslyn",
         "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/Bonfire.Compiler.Roslyn.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/tmp/codeql-scratch-d48bc3dc7be7d21d/dbs/csharp/working/packages",
         "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Compiler.Roslyn/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -127,6 +137,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -142,7 +162,7 @@
         "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/Bonfire.Decompiler.IlSpy.csproj",
         "projectName": "Bonfire.Decompiler.IlSpy",
         "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/Bonfire.Decompiler.IlSpy.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/tmp/codeql-scratch-d48bc3dc7be7d21d/dbs/csharp/working/packages",
         "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -198,6 +218,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -213,7 +243,7 @@
         "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.Demo/Bonfire.Demo.csproj",
         "projectName": "Bonfire.Demo",
         "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Demo/Bonfire.Demo.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/tmp/codeql-scratch-d48bc3dc7be7d21d/dbs/csharp/working/packages",
         "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.Demo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -278,6 +308,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[9.0.16, 9.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -293,7 +337,7 @@
         "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/Bonfire.LanguageModel.OpenAi.csproj",
         "projectName": "Bonfire.LanguageModel.OpenAi",
         "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/Bonfire.LanguageModel.OpenAi.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/tmp/codeql-scratch-d48bc3dc7be7d21d/dbs/csharp/working/packages",
         "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire.LanguageModel.OpenAi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -349,6 +393,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -364,7 +418,7 @@
         "projectUniqueName": "/tmp/workspace/kwrl/Bonfire/Bonfire/Bonfire.csproj",
         "projectName": "Bonfire",
         "projectPath": "/tmp/workspace/kwrl/Bonfire/Bonfire/Bonfire.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/tmp/codeql-scratch-d48bc3dc7be7d21d/dbs/csharp/working/packages",
         "outputPath": "/tmp/workspace/kwrl/Bonfire/Bonfire/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -414,6 +468,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

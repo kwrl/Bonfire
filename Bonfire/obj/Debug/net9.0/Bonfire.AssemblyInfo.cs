@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bonfire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a2e10e56e82db25755e12c1842431172412f9ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+236774bdcc218105a57411918d24799e2982f136")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bonfire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bonfire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
