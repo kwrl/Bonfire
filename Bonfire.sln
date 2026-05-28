@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonfire.LanguageModel.OpenA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonfire.Demo", "Bonfire.Demo\Bonfire.Demo.csproj", "{A457A54F-B5F9-4E3D-9071-A1F834343329}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonfire.DependencyInjection", "Bonfire.DependencyInjection\Bonfire.DependencyInjection.csproj", "{27526D9F-92A3-46A8-BAA5-B545500D6142}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -94,6 +96,18 @@ Global
 		{A457A54F-B5F9-4E3D-9071-A1F834343329}.Release|x64.Build.0 = Release|Any CPU
 		{A457A54F-B5F9-4E3D-9071-A1F834343329}.Release|x86.ActiveCfg = Release|Any CPU
 		{A457A54F-B5F9-4E3D-9071-A1F834343329}.Release|x86.Build.0 = Release|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Debug|x64.Build.0 = Debug|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Debug|x86.Build.0 = Debug|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Release|x64.ActiveCfg = Release|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Release|x64.Build.0 = Release|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Release|x86.ActiveCfg = Release|Any CPU
+		{27526D9F-92A3-46A8-BAA5-B545500D6142}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

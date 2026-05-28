@@ -1,0 +1,16 @@
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/bin/Debug/net9.0/Bonfire.Decompiler.IlSpy.deps.json
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/bin/Debug/net9.0/Bonfire.Decompiler.IlSpy.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/bin/Debug/net9.0/Bonfire.Decompiler.IlSpy.pdb
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/bin/Debug/net9.0/Bonfire.Abstractions.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/bin/Debug/net9.0/Bonfire.Abstractions.pdb
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/Debug/net9.0/Bonfire.Decompiler.IlSpy.csproj.AssemblyReference.cache
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/Debug/net9.0/Bonfire.Decompiler.IlSpy.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/Debug/net9.0/Bonfire.Decompiler.IlSpy.AssemblyInfoInputs.cache
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/Debug/net9.0/Bonfire.Decompiler.IlSpy.AssemblyInfo.cs
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/Debug/net9.0/Bonfire.Decompiler.IlSpy.csproj.CoreCompileInputs.cache
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/Debug/net9.0/Bonfire.Decompiler.IlSpy.sourcelink.json
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/Debug/net9.0/Bonfire..E2D0D395.Up2Date
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/Debug/net9.0/Bonfire.Decompiler.IlSpy.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/Debug/net9.0/refint/Bonfire.Decompiler.IlSpy.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/Debug/net9.0/Bonfire.Decompiler.IlSpy.pdb
+/tmp/workspace/kwrl/Bonfire/Bonfire.Decompiler.IlSpy/obj/Debug/net9.0/ref/Bonfire.Decompiler.IlSpy.dll

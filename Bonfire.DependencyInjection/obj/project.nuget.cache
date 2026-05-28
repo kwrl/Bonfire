@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6fxwN+QTBdk=",
+  "success": true,
+  "projectFilePath": "/tmp/workspace/kwrl/Bonfire/Bonfire.DependencyInjection/Bonfire.DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

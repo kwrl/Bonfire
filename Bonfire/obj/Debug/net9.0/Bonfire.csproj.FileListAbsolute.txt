@@ -1,0 +1,16 @@
+/tmp/workspace/kwrl/Bonfire/Bonfire/bin/Debug/net9.0/Bonfire.deps.json
+/tmp/workspace/kwrl/Bonfire/Bonfire/bin/Debug/net9.0/Bonfire.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire/bin/Debug/net9.0/Bonfire.pdb
+/tmp/workspace/kwrl/Bonfire/Bonfire/bin/Debug/net9.0/Bonfire.Abstractions.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire/bin/Debug/net9.0/Bonfire.Abstractions.pdb
+/tmp/workspace/kwrl/Bonfire/Bonfire/obj/Debug/net9.0/Bonfire.csproj.AssemblyReference.cache
+/tmp/workspace/kwrl/Bonfire/Bonfire/obj/Debug/net9.0/Bonfire.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/workspace/kwrl/Bonfire/Bonfire/obj/Debug/net9.0/Bonfire.AssemblyInfoInputs.cache
+/tmp/workspace/kwrl/Bonfire/Bonfire/obj/Debug/net9.0/Bonfire.AssemblyInfo.cs
+/tmp/workspace/kwrl/Bonfire/Bonfire/obj/Debug/net9.0/Bonfire.csproj.CoreCompileInputs.cache
+/tmp/workspace/kwrl/Bonfire/Bonfire/obj/Debug/net9.0/Bonfire.sourcelink.json
+/tmp/workspace/kwrl/Bonfire/Bonfire/obj/Debug/net9.0/Bonfire.csproj.Up2Date
+/tmp/workspace/kwrl/Bonfire/Bonfire/obj/Debug/net9.0/Bonfire.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire/obj/Debug/net9.0/refint/Bonfire.dll
+/tmp/workspace/kwrl/Bonfire/Bonfire/obj/Debug/net9.0/Bonfire.pdb
+/tmp/workspace/kwrl/Bonfire/Bonfire/obj/Debug/net9.0/ref/Bonfire.dll

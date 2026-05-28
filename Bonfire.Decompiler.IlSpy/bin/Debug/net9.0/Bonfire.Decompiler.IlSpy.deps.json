@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Bonfire.Decompiler.IlSpy/1.0.0": {
+        "dependencies": {
+          "Bonfire.Abstractions": "1.0.0",
+          "ICSharpCode.Decompiler": "8.2.0.7535"
+        },
+        "runtime": {
+          "Bonfire.Decompiler.IlSpy.dll": {}
+        }
+      },
+      "ICSharpCode.Decompiler/8.2.0.7535": {
+        "runtime": {
+          "lib/netstandard2.0/ICSharpCode.Decompiler.dll": {
+            "assemblyVersion": "8.2.0.7535",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Bonfire.Abstractions/1.0.0": {
+        "runtime": {
+          "Bonfire.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bonfire.Decompiler.IlSpy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ICSharpCode.Decompiler/8.2.0.7535": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y4vSHtXCoTNISvvlxcskz+Hiw1vqY0kQsu0loO6nOsWwwZ60IxaTygEFapN2SuSB3SiswGPv535y/bV70Fm8hw==",
+      "path": "icsharpcode.decompiler/8.2.0.7535",
+      "hashPath": "icsharpcode.decompiler.8.2.0.7535.nupkg.sha512"
+    },
+    "Bonfire.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
