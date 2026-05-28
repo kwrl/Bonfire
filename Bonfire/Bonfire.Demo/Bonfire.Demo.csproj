@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenAI" Version="2.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bonfire\Bonfire.csproj" />
+    <ProjectReference Include="..\Bonfire.Compiler.Roslyn\Bonfire.Compiler.Roslyn.csproj" />
+    <ProjectReference Include="..\Bonfire.Decompiler.IlSpy\Bonfire.Decompiler.IlSpy.csproj" />
+    <ProjectReference Include="..\Bonfire.LanguageModel.OpenAi\Bonfire.LanguageModel.OpenAi.csproj" />
+  </ItemGroup>
+
+</Project>
